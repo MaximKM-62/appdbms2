@@ -1,0 +1,6 @@
+BASE = 'postgresql+psycopg2'
+USERNAME = 'postgres'
+PASSWORD = '2705'
+HOST = 'localhost'
+PORT = '5432'
+DATABASE = 'Student'
